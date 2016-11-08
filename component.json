@@ -1,0 +1,28 @@
+{
+  "name": "jQuery.c4_scope",
+  "title": "Dynamic scope navigator",
+  "version": "0.0.5",
+  "description": "jQuery items navigation system.",
+  "author": {
+    "name": "Internet-Technology ltd.",
+    "url": "http://spbitec.ru"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.7.0"
+  },
+  "keywords": [
+    "scope",
+    "navigation",
+    "jQuery"
+  ],  
+	"c4":{  
+		"category":"С4/Плагины",
+		"readme":"readme.md"
+	}
+}
